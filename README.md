@@ -7,8 +7,8 @@ In order to infer whether the author of a given comment leans a certain way, pol
 3. Train classifiers, given labeled data.
 
 DataSets:
-Choose any corpus of the following corpora to applying this project. These corpora should be existing in nltk_data/corpora folder:
-    1- movie_reviews
-    2- product_reviews_1
-    3- product_reviews_2
-    4- twitter_samples
+Choose any corpus of the following corpora to applying this project. These corpora should be existing in nltk_data/corpora folder: <br>
+    1- movie_reviews <br>
+    2- product_reviews_1 <br>
+    3- product_reviews_2 <br>
+    4- twitter_samples <br>
