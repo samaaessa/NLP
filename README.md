@@ -1,4 +1,4 @@
-# NLP
+# Sentiment Analysis
 Project Name: Sentiment Analysis of Comment or Text. <br>
 Project Stages:<br>
 In order to infer whether the author of a given comment leans a certain way, politically,I use three steps: <br>
